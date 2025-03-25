@@ -1,2 +1,2 @@
-# samon_says
-This is my second project
+# First Project
+practice purpose
